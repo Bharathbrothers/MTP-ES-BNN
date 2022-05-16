@@ -11,9 +11,9 @@ Tools and Technologies used:
 
 Stages:
 
-  [Phase -1:3rd semester](../blob/master/PHASE%20-1/)
+  [Phase -1:3rd semester](../master/PHASE%20-1/)
     
-   [Mid semester:](../blob/master/PHASE%20-1/1-%203RD%20SEMESTER%20MID/)
+   [Mid semester:](../master/PHASE%20-1/1-%203RD%20SEMESTER%20MID/)
    
       - Learning/Revising Deep Learning and python.
       - Searching/learning about ES.
@@ -22,17 +22,17 @@ Stages:
       - Literature Survey:
       - Study all papers related to it and write what they are doing and what they are lacking.
       
-   [End semester:](../blob/master/PHASE%20-1/1-%203RD%20SEMESTER%20END/)
+   [End semester:](../master/PHASE%20-1/1-%203RD%20SEMESTER%20END/)
    
     - Implement a basic NN and a basic BNN:
     
   [Phase -2: (4th semester)]((../blob/master/PHASE%20-2/))
     
-   [Mid semester:](../blob/master/PHASE%20-1/1-%204TH%20SEMESTER%20MID/)
+   [Mid semester:](../master/PHASE%20-1/1-%204TH%20SEMESTER%20MID/)
    
      - Implement different versions and variations of BNN using various techniques.
      
-   [End semester:](../blob/master/PHASE%20-1/1-%204TH%20SEMESTER%20END/)
+   [End semester:](../master/PHASE%20-1/1-%204TH%20SEMESTER%20END/)
    
     - Implement Expert system web application.
 
