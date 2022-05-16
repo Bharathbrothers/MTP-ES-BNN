@@ -58,8 +58,11 @@ Systems. The usage of BNN’s overcomes the drawback of the uncertainty of neura
 networks. It also makes predictions more dynamic.
 
 #### Implementation Steps:
+
+##### for implementing a BNN:
     1.
     2.
+##### for implementing a Web app for Expert system:
     
 #### Screenshots:
   1. Web application and Notebook Screenshots.
@@ -74,6 +77,12 @@ Web app link: (deploy on streamlit free server.)
 Web app demo link: (drive link)
 
 Report link: (pdf link)
+
+Presentation link:
+
+#### Summary and Conclusion:
+
+##### future scope:
     
 #### TO DO:
   - [x] MAKE FOLDERS FOR EACH PHASE AND SUBMISSION (made locally.)
@@ -82,4 +91,5 @@ Report link: (pdf link)
   - [ ] UPLOAD ALL PAPERS, CODES, PLOTS, MODELS AND VERSIONS WHICH ARE IMPLEMENTED THROUGHOUT THE PROJECT.
   - [ ] GO ON. 
   - [X] added relative links for main folders.
+  - [ ] need to get the exact version and list of libraries used for the whole project so that it can be implemented later.(generate requirements.txt kind of file)
    
