@@ -63,6 +63,8 @@ networks. It also makes predictions more dynamic.
     1.
     2.
 ##### for implementing a Web app for Expert system:
+    1.
+    2.
     
 #### Screenshots:
   1. Web application and Notebook Screenshots.
