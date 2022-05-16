@@ -11,7 +11,7 @@ Tools and Technologies used:
 
 Stages:
 
-  Phase -1: (3rd semester)
+  [Phase -1: 3rd semester](../blob/master/PHASE -1/1- 3RD SEMESTER MID/MID_TERM_REPORT.pdf)
     
     Mid semester:
      - Learning/Revising Deep Learning and python.
