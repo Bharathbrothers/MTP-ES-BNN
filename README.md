@@ -118,6 +118,6 @@ Presentation link:
   - [x] LINK THOSE FOLDERS FROM THIS README FILE SO THAT THEY ARE EASILY ACCESSIBLE.
   - [x] UPLOAD ALL PAPERS, CODES, PLOTS, MODELS AND VERSIONS WHICH ARE IMPLEMENTED THROUGHOUT THE PROJECT.
   - [ ] GO ON. 
-  - [X] added relative links for main folders.
-  - [ ] need to get the exact version and list of libraries used for the whole project so that it can be implemented later.(generate requirements.txt kind of file)
+  - [x] added relative links for main folders.
+  - [x] need to get the exact version and list of libraries used for the whole project so that it can be implemented later.(generate requirements.txt kind of file)
    
