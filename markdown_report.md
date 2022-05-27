@@ -5,9 +5,9 @@ MTP: MTech Project
 
 # Title : Expert System using Bayesian Neural Networks
 
-Description:
+Aim: To build an Expert System using Bayesian Neural Networks for Predictive Maintenance Dataset.
 
-Aim:
+Description: Building an Expert system using streamlit framework with BNN models developed using Tensorflow and Tensorflow probability libraries in Google colab notebook for the predictive maintenance dataset taken from UCI repository.
 
 #### Tools and Technologies used: 
 Python, Tensorflow, Tensorflow Probability, Streamlit framework
@@ -71,8 +71,10 @@ networks. It also makes predictions more dynamic.
     6. Saving the model as a file for including it in the web application. Saving the model architecture as an image.
    
 ##### for implementing a Web app for Expert system:
+
 The expert system page was completed by following the below steps.
 Steps:
+   
     1. Queries here can be answered to get the advice from Expert System.
     2. Users can select the appropriate option below each query to submit to the system.
     3. Based on the option selected, a certain value gets assigned to that variable.
@@ -100,8 +102,19 @@ Report link: (pdf link)
 Presentation link:
 
 #### Summary and Conclusion:
+The dataset taken is for the task of Predictive Maintenance which helps in the
+identification of the most probable root cause of a problem or failure and to give a
+solution to rectify it. This way, the frequency of maintenance can be reduced by having
+maintenance only when certain conditions are encountered and when it is necessary
+instead of scheduled maintenance. This results in higher efficiency of the machine with
+low maintenance cost over a long period of time.
 
 ##### future scope:
+We can extend this work to make an Expert Shell System where we can use this as
+a building block or as an environment for developing any Expert System, just by changing
+the knowledge base for the specific system. They can be used for building various
+applications just from the template like an expert shell system which is a generalized one
+which helps in building any domain-specific expert system for better decision-making
     
 #### TO DO:
 - [x] MAKE FOLDERS FOR EACH PHASE AND SUBMISSION (made locally.)
