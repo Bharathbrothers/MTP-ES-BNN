@@ -11,7 +11,7 @@ import urllib, urllib.parse
 
 
 #model = pickle.load(open('model_tfp1v1.pkl','rb'))
-model = tf.keras.models.load_model('saved_model/model_tfp_v1')
+model = tf.keras.models.load_model('tensorflow_content/saved_model/model_tfp_v1')
 #model = tf.keras.models.load_model('model_tfp_v1.h5', custom_objects={"DenseFlipout": tfp.layers.DenseFlipout})
 
 def main():
