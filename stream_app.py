@@ -417,7 +417,7 @@ def show_instruction():
 
 def get_file(path):
     # gets the file from mentioned path and file name and reads the content of the file and displays it in the app.
-    url = 'file:/M:/2022/PHASE II/' + path
+    url = path #'file:/M:/2022/PHASE II/' 
     response = urllib.request.urlopen(url)
     return response.read().decode("utf-8")
     #return
