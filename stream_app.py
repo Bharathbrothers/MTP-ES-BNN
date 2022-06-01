@@ -11,7 +11,7 @@ import urllib, urllib.parse
 
 
 #model = pickle.load(open('model_tfp1v1.pkl','rb'))
-model = tf.keras.models.load_model('saved_model/model_tfp_v1')
+model = tf.keras.models.load_model('tensorflow_content/saved_model/model_tfp_v1')
 #model = tf.keras.models.load_model('model_tfp_v1.h5', custom_objects={"DenseFlipout": tfp.layers.DenseFlipout})
 
 def main():
@@ -33,7 +33,7 @@ def main():
             ["Show Instructions", "Run the App", "Show the Source Code", "Expert System","Markdown Report"])
     if app_mode == "Show Instructions":
         st.sidebar.success('Success! Read the Instructions here!')
-        st.markdown(get_file("instructions.md"))
+        #st.markdown(get_file("instructions.md"))
         #show_instruction()
     elif app_mode == "Show the Source Code":
         #info_display.empty()
@@ -51,7 +51,7 @@ def main():
     elif app_mode =="Markdown Report":
         st.sidebar.success('Success! Read the Report here!.')
         st.write("Report is taken from markdown file with in the folder.")
-        st.markdown(get_file("markdown_report.md"))
+        #st.markdown(get_file("markdown_report.md"))
         
     
 
@@ -417,7 +417,7 @@ def show_instruction():
 
 def get_file(path):
     # gets the file from mentioned path and file name and reads the content of the file and displays it in the app.
-    url = 'file:/M:/2022/PHASE II/' + path
+    url = path #'file:/M:/2022/PHASE II/' 
     response = urllib.request.urlopen(url)
     return response.read().decode("utf-8")
     #return
