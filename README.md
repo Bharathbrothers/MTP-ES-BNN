@@ -100,7 +100,7 @@ Notebook Pdf:
 
 Github link: [Repository Link](https://github.com/Bharathbrothers/MTP-ES-BNN)
 
-Web app link: (deploy on streamlit free server.)
+Web app link: [link](https://share.streamlit.io/bharathbrothers/mtp-es-bnn/main/stream_app.py)
 
 Web app demo link: [Video link](https://drive.google.com/file/d/1wQdFVDWhVPn2GtZs32ubPnI_HMJxvd4K/view?usp=sharing)
 
@@ -117,7 +117,7 @@ Presentation link:
   - [x] UPLOAD ALL RELATED FILES PHASE AND SUBMISSION WISE
   - [x] LINK THOSE FOLDERS FROM THIS README FILE SO THAT THEY ARE EASILY ACCESSIBLE.
   - [x] UPLOAD ALL PAPERS, CODES, PLOTS, MODELS AND VERSIONS WHICH ARE IMPLEMENTED THROUGHOUT THE PROJECT.
-  - [ ] GO ON. 
+  - [x] GO ON. 
   - [x] added relative links for main folders.
   - [x] need to get the exact version and list of libraries used for the whole project so that it can be implemented later.(generate requirements.txt kind of file)
    
