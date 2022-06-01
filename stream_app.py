@@ -33,7 +33,7 @@ def main():
             ["Show Instructions", "Run the App", "Show the Source Code", "Expert System","Markdown Report"])
     if app_mode == "Show Instructions":
         st.sidebar.success('Success! Read the Instructions here!')
-        st.markdown(get_file("instructions.md"))
+        #st.markdown(get_file("instructions.md"))
         #show_instruction()
     elif app_mode == "Show the Source Code":
         #info_display.empty()
@@ -51,7 +51,7 @@ def main():
     elif app_mode =="Markdown Report":
         st.sidebar.success('Success! Read the Report here!.')
         st.write("Report is taken from markdown file with in the folder.")
-        st.markdown(get_file("markdown_report.md"))
+        #st.markdown(get_file("markdown_report.md"))
         
     
 
